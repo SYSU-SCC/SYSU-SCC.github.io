@@ -1,7 +1,7 @@
 title: SYSU-SCC # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   TBD
-url: http://scc.sysu.tech # 你的域名，例如 https://wu-kan.github.io
+url: https://sysu-scc.github.io # 你的域名，例如 https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
@@ -125,23 +125,20 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               </style>
           sidebar: # 此配置项下是一些关于侧边栏的配置
             disable: false # 是否不显示sidebar
-            avatar: # 侧边栏显示的头像
-              enable: true
-              img: https://i.loli.net/2021/04/10/HI95xRVNA6zwseO.png # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> Index'
                 href: /
-              - title: '<i class="fas fa-comments fa-fw"></i> Honors'
+              - title: '<i class="fas fa-award fa-fw"></i> Honors'
                 href: /Honors/
-              - title: '<i class="fas fa-comments fa-fw"></i> members'
+              - title: '<i class="fas fa-users fa-fw"></i> Members'
                 href: /Members/
-              - title: '<i class="fas fa-comments fa-fw"></i> Presentations'
+              - title: '<i class="fas fa-file-powerpoint fa-fw"></i> Presentations'
                 href: /Presentations/
-              - title: '<i class="fas fa-comments fa-fw"></i> Projects'
+              - title: '<i class="fas fa-project-diagram fa-fw"></i> Projects'
                 href: /Projects/
-              - title: '<i class="fas fa-comments fa-fw"></i> Contact'
+              - title: '<i class="fas fa-address-book fa-fw"></i> Contact'
                 href: /Contact/
-              - title: '<i class="fas fa-comments fa-fw"></i> Join Us'
+              - title: '<i class="fas fa-hand-point-right fa-fw"></i> Join Us'
                 href: /Join/
             simple_jekyll_search: # 侧边栏的全站搜索
               enable: true
@@ -471,16 +468,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 plugins: [ RevealMarkdown,RevealMath,RevealHighlight ]
               });
             "></script>
-        page404:
-          prepend:
-            - | # 腾讯公益
-              <script
-                src='https://qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js'
-                async='async'
-                charset='utf-8'
-                homePageUrl='/'
-                homePageName='回到我的主页'
-              ></script>
 
 compress_html: # <https://github.com/penibelst/jekyll-compress-html>
   clippings: all
@@ -505,10 +492,6 @@ remote_theme: https://github.com/wu-kan/jekyll-theme-WuK@4.0.2 #使用固定版�
 
 readme_index: # 缺失index.md和index.html时，使用README.md代替之
   with_frontmatter: true # 支持带有yaml头的README
-
-webmaster_verifications: # <https://jekyll.github.io/jekyll-seo-tag/usage/>
-  google: YIKi1rBnyUaS-DMYiluseI5kZzTwjCkTFmKkSkMZDJk
-  baidu: szbTSfUGAB
 
 permalink: pretty
 # timezone: Asia/Shanghai # 解决githubpage显示时间不正确的问题，见<https://www.iana.org/time-zones>
