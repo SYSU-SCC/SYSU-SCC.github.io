@@ -78,18 +78,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 h4,
                 h5,
                 h6 {
-                  font-family: "Courier New", "Courier", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft JhengHei", "Microsoft YaHei", monospace;
-                }
-              </style>
-            - | # 网页标题使用加粗字号
-              <style>
-                h1,
-                h2,
-                h3,
-                h4,
-                h5,
-                h6 {
-                  font-weight: bold;
+                  font-family: "Courier New", "Courier", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft JhengHei Bold", "Microsoft YaHei", monospace;
                 }
               </style>
             - | #修复行内图片默认样式
@@ -414,8 +403,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               </style>
             - | # 给文章加上磨砂背景，防止被背景影响阅读；同时加上加载动画
               <style>
-                .masthead,
                 .container.content {
+                  padding: 2rem;
                   animation-duration: 2s;
                   animation-name: fadeIn;
                 }
