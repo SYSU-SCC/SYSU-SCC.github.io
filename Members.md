@@ -32,7 +32,7 @@ title: Members
 - [Kan Wu](https://wu-kan.cn)(19')
 - Zhicong Zhong(19')
 - Feiyi Chen(19')
-- Haohua Liu(19')
+- [Haohua Liu](https://howardlau.me)(19')
 - Yihong Li(19')
 - Yuhui Huang(18')
 - Yining Zhang(18')
