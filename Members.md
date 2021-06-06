@@ -18,7 +18,7 @@ title: Members
 ## Grade 18
 
 - Jing Lan (20')
-- Xuanteng Huang (20')
+- [Xuanteng Huang](https://www.notion.so/melonhwang/Huan-Teng-Hwang-415a0f2195b84c7b94f5c55668dfe98d) (20')
 - Zhihan Jiang (20')
 - Wenkai Shao (20')
 - Jingrun Zhang (20')
