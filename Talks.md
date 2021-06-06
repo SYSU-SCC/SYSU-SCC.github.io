@@ -18,7 +18,7 @@ title: Talks
 
 - **Y. Li**. AI 赛题调优经验分享. _28 Dec 2020_.
 - **K. Wu**. [CUDA 矩阵乘法的优化](https://wu-kan.cn/_posts/2019-12-13-CUDA%E7%9F%A9%E9%98%B5%E4%B9%98%E6%B3%95%E7%9A%84%E4%BC%98%E5%8C%96/). _17 Dec 2020_.
-- **Y. Wang**. 存储系统：从没入门（0）到刚入门（1）. _13 Dec 2020_.
+- **Y. Wang**. [存储系统：从没入门（0）到刚入门（1）.](https://www.yuque.com/wwyf/blog/dhoobh) _13 Dec 2020_.
 - **G. Feng**. InfiniBand 相关知识+MPI 使用技巧+CPC 赛题优化分享. _08 Dec 2020_.
 
 ## Nov 2020
