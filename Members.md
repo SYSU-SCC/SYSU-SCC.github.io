@@ -58,6 +58,15 @@ title: Members
 
 ## Grade 14 and former
 
-- Chenghuan Huang
-- Zhanfu Yang
-- [Hua Huang](https://enigmahuang.me/)
+- Chenghuan Huang (16')
+- Ziming Wu (16')
+- Zhanfu Yang (16')
+- Jiansheng Cheng (15')
+- [Hua Huang](https://huanghua1994.github.io/) (15')
+- Juncheng Li (15')
+- Siyuan Liu (15')
+- Fan Xie (15')
+- Runkai Yang (15')
+- Bingwei Chen (?)
+- Wenchao Guan (?)
+- Meipeng Zhi (?)
