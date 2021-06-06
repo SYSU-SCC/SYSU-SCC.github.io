@@ -50,7 +50,7 @@ title: Members
 
 - Jiabing Xie(18')
 - Guangnan Feng(17')
-- Liyue ZHang(17')
+- Liyue Zhang(17')
 - Jiexin Liang(17')
 - Rongyu Cai(17')
 - Jiawei Zhang(17')
