@@ -22,6 +22,7 @@ title: Members
 - Zhihan Jiang (20')
 - Wenkai Shao (20')
 - Jingrun Zhang (20')
+- [Hongbin Zhang](https://www.zhang-hb.com) (20')
 - Xianlong Luo (20')
 - Zhengxi Liu (20')
 - Jiazhen Gan (19')
