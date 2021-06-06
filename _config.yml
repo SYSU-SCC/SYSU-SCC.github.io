@@ -142,14 +142,14 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 href: /Honors/
               - title: '<i class="fas fa-users fa-fw"></i> Members'
                 href: /Members/
-              - title: '<i class="fas fa-file-powerpoint fa-fw"></i> Presentations'
-                href: /Presentations/
-              - title: '<i class="fas fa-project-diagram fa-fw"></i> Projects'
-                href: /Projects/
+              - title: '<i class="fas fa-file-powerpoint fa-fw"></i> Talks'
+                href: /Talks/
               - title: '<i class="fas fa-address-book fa-fw"></i> Contact'
                 href: /Contact/
               - title: '<i class="fas fa-hand-point-right fa-fw"></i> Join Us'
                 href: /Join/
+              - title: '<i class="fab fa-github fa-fw"></i> GitHub'
+                href: https://github.com/SYSU-SCC
             simple_jekyll_search: # 侧边栏的全站搜索
               enable: true
               full_text_search: false # 可能导致缓慢的搜索和加载
@@ -329,7 +329,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             enable: true
           katex: # katex 数学公式插件
             enable: true
-            append: | # 对KaTeX过长公式渲染超出页面的修正，感谢[@AmachiInori](https://github.com/wu-kan/wu-kan.github.io/issues/13)
+            append:
+              | # 对KaTeX过长公式渲染超出页面的修正，感谢[@AmachiInori](https://github.com/wu-kan/wu-kan.github.io/issues/13)
               <link
                 rel="stylesheet"
                 href="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css"
