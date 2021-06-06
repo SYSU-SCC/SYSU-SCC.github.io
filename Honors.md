@@ -6,7 +6,7 @@ title: Honors
 | :------: | :--: | :------------------------------------------------: |
 | ASC20-21 |  3   |       Highest LINPACK,[News][asc20-21-news]        |
 |  PAC20   |  2   |                 [News][pac20-news]                 |
-|  PRA20   |  3   |                [News][pra20-newws]                 |
+|  PRA20   |  3   |                 [News][pra20-news]                 |
 |  PAC19   |  7   |                                                    |
 |  ISC19   |  4   |                 [News][isc19-news]                 |
 |  ASC19   |  3   | e Prize,Group Competition Award,[News][asc19-news] |
