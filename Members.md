@@ -7,7 +7,7 @@ title: Members
 - [Zhiguang Chen](http://sdcs.sysu.edu.cn/content/5357)
 - [Dan Huang](http://sdcs.sysu.edu.cn/content/5266)
 - Yunfei Du (Former)
-- Weicai Ye (Former)
+- [Weicai Ye](https://www.researchgate.net/scientific-contributions/Weicai-Ye-2033993793) (Former)
 - Yongdong Zhang (Former)
 
 ## Grade 19
@@ -69,6 +69,6 @@ title: Members
 - Siyuan Liu (15')
 - Fan Xie (15')
 - Runkai Yang (15')
-- Bingwei Chen (?)
-- Wenchao Guan (?)
-- Meipeng Zhi (?)
+- Bingwei Chen
+- Wenchao Guan
+- Meipeng Zhi
