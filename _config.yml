@@ -78,7 +78,28 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 h4,
                 h5,
                 h6 {
-                  font-family: "Courier New", "Courier", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft JhengHei Bold", "Microsoft YaHei", monospace;
+                  font-family: "Courier New", "Courier", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft YaHei Light", "Microsoft JhengHei", monospace;
+                }
+              </style>
+            - | # 表格样式美化
+              <style>
+                td,
+                th {
+                  padding: 0px;
+                  border: 0px;
+                }
+                table {
+                  border: 0px;
+                }
+                table tbody {
+                  display: block;
+                  overflow: scroll;
+                }
+                table thead,
+                tbody tr {
+                  display: table;
+                  table-layout: fixed;
+                  width: 100%;
                 }
               </style>
             - | #修复行内图片默认样式
