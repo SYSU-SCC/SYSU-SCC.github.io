@@ -1,5 +1,6 @@
 ---
-title: comments
+layout: comments
+title: Talks
 ---
 
 ## Jun 2021
