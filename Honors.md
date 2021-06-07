@@ -1,5 +1,6 @@
 ---
 title: Honors
+layout: comments
 ---
 
 |         Year         | Rank |                        Notes                        |

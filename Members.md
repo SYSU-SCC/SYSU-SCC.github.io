@@ -1,5 +1,6 @@
 ---
 title: Members
+layout: comments
 ---
 
 ## Supervisors
