@@ -1,5 +1,6 @@
 ---
-title: comments
+title: Contact
+layout: comments
 ---
 
 ## Join us
