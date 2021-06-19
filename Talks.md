@@ -5,7 +5,7 @@ title: Talks
 
 ## Jun 2021
 
-- **L. Zhang**. [并行开发技术概论](https://live.bilibili.com/h5/21906703). _06 Jun 2021_.
+- **L. Zhang**. [并行开发技术概论](https://www.bilibili.com/video/BV1Dv411p7ay). _06 Jun 2021_.
 
 ## May 2021
 
