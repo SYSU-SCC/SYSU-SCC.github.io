@@ -5,6 +5,8 @@ title: Talks
 
 ## Jun 2021
 
+- **L. Zhang**. [并行优化实战](https://www.bilibili.com/video/BV1a44y1q782). _27 Jun 2021_.
+- **J. Lan, X. Huang, H. Zhang, K. Shao, X. Luo, J. Feng**. ISC Student Supercomputer Challenge: Sun Yat-sen University. _23 Jun 2020_.
 - **L. Zhang**. [并行开发技术概论](https://www.bilibili.com/video/BV1Dv411p7ay). _06 Jun 2021_.
 
 ## May 2021
@@ -43,6 +45,21 @@ title: Talks
 - **X. Huang, G. Feng**. RDMA 编程介绍. _28 Sep 2019_.
   - [Notes](https://wu-kan.cn/_posts/2019-09-28-RDMA%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 
+## Dec 2018
+
+- **J. Liang**. relion介绍. _20 Dec 2018_.
+
+## Nov 2018
+
+- **R. Ouyang**. 人工智障入门. _22 Nov 2018_.
+- **J. Liang**. CUDA编程入门 1 & 2. _01 Nov 2018_.
+
+## Oct 2018
+
+- **L. Zhang, G. Feng, J. Liang, T. Liang**. CPC参赛分享. _25 Oct 2018_.
+- **J. Zhang**. fortran + C 混编. _11 Oct 2018_.
+
 ## Sep 2018
 
-- **R. Cai, G. Feng**. 系统组内培、天河 2 号使用. _29 Sep 2019_.
+- **R. Cai, G. Feng**. 系统组内培、天河 2 号使用. _29 Sep 2018_.
+- **J. Liang**. 优化题1 优化参考方案. _24 Sep 2018_.
