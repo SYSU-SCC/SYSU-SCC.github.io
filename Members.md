@@ -51,9 +51,9 @@ layout: comments
 
 ## Grade 15
 
-- Jiabing Xie (18')
+- Jiabin Xie (18')
 - Guangnan Feng (18')
-- Liyue hang (18')
+- Liyue Zhang (18')
 - Jiexin Liang (18')
 - Rongyu Cai (18')
 - Xiaoxi Wang (18')
