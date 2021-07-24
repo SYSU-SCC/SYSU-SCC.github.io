@@ -51,7 +51,7 @@ layout: comments
 
 ## Grade 15
 
-- Jiabin Xie (18')
+- [Jiabin Xie](https://xiejb6.github.io/) (18')
 - Guangnan Feng (18')
 - Liyue Zhang (18')
 - Jiexin Liang (18')
