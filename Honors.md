@@ -5,6 +5,8 @@ layout: comments
 
 |         Year         | Rank |                        Notes                        |
 | :------------------: | :--: | :-------------------------------------------------: |
+| [CPC21][cpc21]       |  3   |                        [News][cpc21-news]           |
+| [ISC21][isc21]       |  4   |     Honorable Mention, [News][isc21-news]           |
 | [ASC20-21][asc20-21] |  3   |       Highest LINPACK, [News][asc20-21-news]        |
 |        PAC20         |  2   |                 [News][pac20-news]                  |
 |        PRA20         |  3   |                 [News][pra20-news]                  |
@@ -22,6 +24,10 @@ layout: comments
 |        ASC13         |  4   |  Application Innovation Award, [News][asc13-news]   |
 |        ASC12         |  4   |                 [News][asc12-news]                  |
 
+[cpc21-news]: https://mp.weixin.qq.com/s/GQsaR_V1NoGzCvbGARMeEA
+[cpc21]: http://hpc-cpc.com/
+[isc21-news]: https://cse.sysu.edu.cn/content/5940
+[isc21]: https://www.isc-hpc.com/student-cluster-competition.html
 [asc20-21]: http://www.asc-events.net/ASC20-21/Finals.php
 [asc20-21-news]: https://mp.weixin.qq.com/s/qIaw40TKvcRTo_NULV_z_g
 [pac20-news]: https://mp.weixin.qq.com/s/F06-d3718XazNqVhLFcoaA
