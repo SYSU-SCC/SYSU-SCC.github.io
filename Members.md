@@ -27,7 +27,7 @@ layout: comments
 ## Grade 18
 
 - [Jing Lan](https://lan-jing.github.io/) (20')
-- [Xuanteng Huang](https://www.melon-hwang.top) (20')
+- [Xuanteng Huang](https://www.melon-hwang.tech) (20')
 - Zhihan Jiang (20')
 - Wenkai Shao (20')
 - Jingrun Zhang (20')
