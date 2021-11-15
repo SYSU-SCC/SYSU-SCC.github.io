@@ -50,7 +50,7 @@ layout: comments
 
 ## Grade 16
 
-- [Yongfeng Wang](https://www.yuque.com/wwyf/blog) (18')
+- [Yongfeng Wang](https://yongfeng.wang) (18')
 - Ting Liang (18')
 - Zhiyuan Wu (18')
 - Runyu Ouyang (18')
