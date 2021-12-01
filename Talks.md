@@ -3,15 +3,14 @@ layout: comments
 title: Talks
 ---
 
+## Nov 2021
+
+- **K. Wu**. [为啥老拿第三](https://wu-kan.cn/2021/11/28/%E8%B6%85%E7%AE%97%E9%98%9F%E5%86%85%E5%9F%B9-%E4%B8%BA%E5%95%A5%E8%80%81%E6%8B%BF%E7%AC%AC%E4%B8%89/). _29 Nov 2021_.
+
 ## Jun 2021
 
 - **L. Zhang**. [并行优化实战](https://www.bilibili.com/video/BV1a44y1q782). _27 Jun 2021_.
-- **J. Lan, X. Huang, H. Zhang, K. Shao, X. Luo, J. Feng**. ISC Student Supercomputer Challenge: Sun Yat-sen University. _23 Jun 2020_.
 - **L. Zhang**. [并行开发技术概论](https://www.bilibili.com/video/BV1Dv411p7ay). _06 Jun 2021_.
-
-## May 2021
-
-- **W. Luo, Z. Liu, J. Zhang, J. Feng, J. Gan, K. Wu**. ASC20-21 Student Supercomputer Challenge: Sun Yat-sen University. _12 May 2020_.
 
 ## Mar 2021
 
