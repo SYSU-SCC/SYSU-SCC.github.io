@@ -6,6 +6,8 @@ title: Talks
 ## Nov 2021
 
 - **K. Wu**. [为啥老拿第三](https://wu-kan.cn/2021/11/28/%E8%B6%85%E7%AE%97%E9%98%9F%E5%86%85%E5%9F%B9-%E4%B8%BA%E5%95%A5%E8%80%81%E6%8B%BF%E7%AC%AC%E4%B8%89/). _29 Nov 2021_.
+- **Y. Wang**. [存储系统：从没入门（0）到刚入门（1）.](https://www.yuque.com/wwyf/blog/dhoobh) _21 Nov 2021_.
+
 
 ## Oct 2021
 
