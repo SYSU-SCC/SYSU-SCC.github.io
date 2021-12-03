@@ -7,6 +7,10 @@ title: Talks
 
 - **K. Wu**. [为啥老拿第三](https://wu-kan.cn/2021/11/28/%E8%B6%85%E7%AE%97%E9%98%9F%E5%86%85%E5%9F%B9-%E4%B8%BA%E5%95%A5%E8%80%81%E6%8B%BF%E7%AC%AC%E4%B8%89/). _29 Nov 2021_.
 
+## Oct 2021
+
+- **X. Huang**. [编译、装载与库](https://sysu-scc.feishu.cn/file/boxcnf18YtN6bN6Zfcwd1NnIqEc). _11 Oct 2021_.
+
 ## Jun 2021
 
 - **L. Zhang**. [并行优化实战](https://www.bilibili.com/video/BV1a44y1q782). _27 Jun 2021_.
