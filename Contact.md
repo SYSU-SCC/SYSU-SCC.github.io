@@ -9,7 +9,7 @@ Coming soon!
 
 ## Discuss with us
 
-- [scc[at]scc.sysu.tech](mailto:scc@scc.sysu.tech)
+- [scc[at]mail.scc.sysu.tech](mailto:scc@mail.scc.sysu.tech)
 
 ## Sponsor us
 
