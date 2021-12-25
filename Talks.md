@@ -3,6 +3,12 @@ layout: comments
 title: Talks
 ---
 
+## Dec 2021
+
+- **Y. Wang**. 关于计算机系统科研的一点体会 _19 Dec 2021_.
+- **J. Feng**. CPU 内核架构：亿点点细节. _04 Dec  2021_.
+
+
 ## Nov 2021
 
 - **K. Wu**. [为啥老拿第三](https://wu-kan.cn/2021/11/28/%E8%B6%85%E7%AE%97%E9%98%9F%E5%86%85%E5%9F%B9-%E4%B8%BA%E5%95%A5%E8%80%81%E6%8B%BF%E7%AC%AC%E4%B8%89/). _29 Nov 2021_.
