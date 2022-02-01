@@ -8,8 +8,8 @@ layout: comments
 |      [IPCC21][ipcc21]     |  3   |                 [News][ipcc21-news]                 |
 |      [PRA21][pra21]       |  3   |                 [News][pra21-news]                  |
 | [IndySCC@SC21][indyscc21] |  1   |        Champion, [News][indyscc-news]               |
-|    [CPC21][cpc21]         |  3   |                 [News][cpc21-news]                  |
-|    [ISC21][isc21]         |  4   |     Honorable Mention, [News][isc21-news]           |
+|      [CPC21][cpc21]       |  3   |                 [News][cpc21-news]                  |
+|      [ISC21][isc21]       |  4   |     Honorable Mention, [News][isc21-news]           |
 |    [ASC20-21][asc20-21]   |  3   |       Highest LINPACK, [News][asc20-21-news]        |
 |           PAC20           |  2   |                 [News][pac20-news]                  |
 |           PRA20           |  3   |                 [News][pra20-news]                  |

@@ -3,6 +3,10 @@ layout: comments
 title: Talks
 ---
 
+## Jan 2022
+
+- **W. Shao**. 简谈spack——编译，安装，运行的困境和出路 _31 Jan 2022_
+
 ## Dec 2021
 
 - **Y. Wang**. 关于计算机系统科研的一点体会 _19 Dec 2021_.
