@@ -5,8 +5,8 @@ layout: comments
 
 ## Supervisors
 
-- [Zhiguang Chen](http://sdcs.sysu.edu.cn/content/5357)
-- [Dan Huang](http://sdcs.sysu.edu.cn/content/5266)
+- [Zhiguang Chen](http://cse.sysu.edu.cn/content/5357)
+- [Dan Huang](http://cse.sysu.edu.cn/content/5266)
 - Yunfei Du (Former)
 - [Weicai Ye](https://www.researchgate.net/scientific-contributions/Weicai-Ye-2033993793) (Former)
 - Yongdong Zhang (Former)
