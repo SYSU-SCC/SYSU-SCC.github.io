@@ -11,10 +11,16 @@ layout: comments
 - [Weicai Ye](https://www.researchgate.net/scientific-contributions/Weicai-Ye-2033993793) (Former)
 - Yongdong Zhang (Former)
 
+Numbers inside parentheses stand for academic years in which members were recruited.
+
 ## Grade 20
 
 - Zhe Tang (21')
 - Yang Ye (21')
+- Tianxing Yang (22')
+- Yueliang Xie (22')
+- Ruijia Yang (22')
+- Tengyang Zheng (22')
 
 ## Grade 19
 
