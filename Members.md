@@ -26,7 +26,6 @@ Numbers inside parentheses stand for academic years in which members were recrui
 
 - Siran Liu (21')
 - Han Huang (21')
-
 - Tianxiang Lv (20')
 - Tianhao Lin (20')
 
