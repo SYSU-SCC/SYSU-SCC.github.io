@@ -9,6 +9,15 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
       path: "" # an empty string here means all files in the project
     values: # 以下配置项也可以在任意页面自定义
       jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
+        comments: # 用于存储网页评论
+          append: |
+            <script src="https://utteranc.es/client.js"
+              repo="SYSU-SCC/SYSU-SCC.github.io"
+              issue-term="url"
+              theme="github-light"
+              crossorigin="anonymous"
+              async
+            ></script>
         default:
           body:
             theme-base: theme-base-07 # 可选的主题色包括08~0f，见 <https://github.com/poole/lanyon>
@@ -501,15 +510,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                         x.parentNode.insertAdjacentElement("beforebegin", m);
                       }'
                 ></script>
-        comments:
-          append: |
-            <script src="https://utteranc.es/client.js"
-              repo="SYSU-SCC/SYSU-SCC.github.io"
-              issue-term="url"
-              theme="github-light"
-              crossorigin="anonymous"
-              async
-            ></script>
         home: # 展示页的配置可跳过，详见<https://revealjs.com/>
           append_to_section_tag:
             - key: data-markdown
