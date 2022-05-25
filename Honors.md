@@ -5,6 +5,7 @@ layout: comments
 
 |         Year              | Rank |                        Notes                        |
 | :----------------------:  | :--: | :-------------------------------------------------: |
+|      [HPC-PL22][hpc-pl22] |  1   |                                                     |
 |      [IPCC21][ipcc21]     |  3   |                 [News][ipcc21-news]                 |
 |      [PRA21][pra21]       |  3   |                 [News][pra21-news]                  |
 | [IndySCC@SC21][indyscc21] |  1   |        Champion, [News][indyscc-news]               |
@@ -27,6 +28,7 @@ layout: comments
 |           ASC13           |  4   |  Application Innovation Award, [News][asc13-news]   |
 |           ASC12           |  4   |                 [News][asc12-news]                  |
 
+[hpc-pl22]: https://mp.weixin.qq.com/s/n0tcEc46qsjIOt_x2-Nr_w
 [ipcc21-news]: https://mp.weixin.qq.com/s?__biz=MjM5NzMzNTU4NQ==&mid=2649434543&idx=1&sn=e82bfeae4262e89432cf9c5ccf8fd441&chksm=bec40ee189b387f7aef8d5433af976dcb2fb79d4ad903c7fba445e38fe7cf190ab4dd88b9b41&mpshare=1&srcid=1122k1UYFrkYjmy4SpSnnkz3&sharer_sharetime=1637576672891&sharer_shareid=0c848dd8273a6a492101ef24a3928d0f&from=groupmessage&scene=1&subscene=10000&clicktime=1638345163&enterid=1638345163&ascene=1&devicetype=android-30&version=28001057&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=en&exportkey=ASt5wZ1tV53ueJZKBJEQRbM%3D&pass_ticket=MQKRvrcQAf0aRjDtBryge87FoapcGs9AzaNybYVVuFefBnptmmC3WMJx9lkToYTK&wx_header=1
 [ipcc21]: http://cnic.cas.cn/zhxw/202111/t20211126_6272303.html
 [pra21-news]: https://cas-pra.sugon.com/sugon/newsugon/index3.html
