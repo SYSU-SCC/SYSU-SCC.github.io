@@ -11,4 +11,4 @@ We are Student Cluster Competition Team at Sun Yat-sen University, and conduct r
 
 ## 2020
 
-![SYSU-SCC-2020](https://i.loli.net/2021/04/24/f1tqjEc9Bmw7SvN.jpg)
+![SYSU-SCC-2020](/assets/image/2022/06/02/0.jpeg)
