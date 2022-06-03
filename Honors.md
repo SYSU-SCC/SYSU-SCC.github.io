@@ -5,7 +5,7 @@ layout: comments
 
 |           Year            | Rank |                        Notes                        |
 | :-----------------------: | :--: | :-------------------------------------------------: |
-|      [ISC22][isc22]       |  2   |                                                     |
+|      [ISC22][isc22]       |  2   |                 [Newws][isc22-news]                    |
 |   [HPC-PL22][hpc-pl22]    |  1   |                                                     |
 |     [IPCC21][ipcc21]      |  3   |                 [News][ipcc21-news]                 |
 |      [PRA21][pra21]       |  3   |                 [News][pra21-news]                  |
@@ -16,7 +16,7 @@ layout: comments
 |           PAC20           |  2   |                 [News][pac20-news]                  |
 |           PRA20           |  3   |                 [News][pra20-news]                  |
 |           PAC19           |  7   |                                                     |
-|           ISC19           |  4   |                 [News][isc19-news]                  |
+|     [ISC19][isc19]        |  4   |                 [News][isc19-news]                  |
 |           ASC19           |  3   | e Prize,Group Competition Award, [News][asc19-news] |
 |           CPC18           |  4   |                                                     |
 |           PAC18           |  5   |                                                     |
@@ -30,6 +30,7 @@ layout: comments
 |           ASC12           |  4   |                 [News][asc12-news]                  |
 
 [isc22]: https://www.isc-hpc.com/student-cluster-competition.html
+[isc22-news]: https://mp.weixin.qq.com/s/wTaJalyJNTeqeeeF8Noh7g
 [hpc-pl22]: https://mp.weixin.qq.com/s/n0tcEc46qsjIOt_x2-Nr_w
 [ipcc21-news]: https://mp.weixin.qq.com/s?__biz=MjM5NzMzNTU4NQ==&mid=2649434543&idx=1&sn=e82bfeae4262e89432cf9c5ccf8fd441&chksm=bec40ee189b387f7aef8d5433af976dcb2fb79d4ad903c7fba445e38fe7cf190ab4dd88b9b41&mpshare=1&srcid=1122k1UYFrkYjmy4SpSnnkz3&sharer_sharetime=1637576672891&sharer_shareid=0c848dd8273a6a492101ef24a3928d0f&from=groupmessage&scene=1&subscene=10000&clicktime=1638345163&enterid=1638345163&ascene=1&devicetype=android-30&version=28001057&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=en&exportkey=ASt5wZ1tV53ueJZKBJEQRbM%3D&pass_ticket=MQKRvrcQAf0aRjDtBryge87FoapcGs9AzaNybYVVuFefBnptmmC3WMJx9lkToYTK&wx_header=1
 [ipcc21]: http://cnic.cas.cn/zhxw/202111/t20211126_6272303.html
@@ -40,11 +41,12 @@ layout: comments
 [cpc21-news]: https://mp.weixin.qq.com/s/GQsaR_V1NoGzCvbGARMeEA
 [cpc21]: http://hpc-cpc.com/
 [isc21-news]: https://cse.sysu.edu.cn/content/5940
-[isc21]: https://www.isc-hpc.com/student-cluster-competition.html
+[isc21]: https://www.hpcadvisorycouncil.com/events/2021/student-cluster-competition/
 [asc20-21]: http://www.asc-events.net/ASC20-21/Finals.php
 [asc20-21-news]: https://mp.weixin.qq.com/s/qIaw40TKvcRTo_NULV_z_g
 [pac20-news]: https://mp.weixin.qq.com/s/F06-d3718XazNqVhLFcoaA
 [pra20-news]: https://mp.weixin.qq.com/s/r9gJu9tuRvNoXj2c9ktVFg
+[isc19]: https://www.hpcadvisorycouncil.com/events/2019/isc19-student-cluster-competition/
 [isc19-news]: https://mp.weixin.qq.com/s/wBmQgKCtHq95HZvf8n38Tg
 [asc19-news]: https://mp.weixin.qq.com/s/YaZBmRCFgIK8U9B2WtY-IA
 [asc18-news]: https://mp.weixin.qq.com/s/olBlMYjuePUl1pQQYGOTFQ
