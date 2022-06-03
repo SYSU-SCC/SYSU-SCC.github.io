@@ -5,7 +5,7 @@ layout: comments
 
 |           Year            | Rank |                        Notes                        |
 | :-----------------------: | :--: | :-------------------------------------------------: |
-|      [ISC22][isc22]       |  2   |                 [Newws][isc22-news]                    |
+|      [ISC22][isc22]       |  2   |                 [News][isc22-news]                    |
 |   [HPC-PL22][hpc-pl22]    |  1   |                                                     |
 |     [IPCC21][ipcc21]      |  3   |                 [News][ipcc21-news]                 |
 |      [PRA21][pra21]       |  3   |                 [News][pra21-news]                  |
