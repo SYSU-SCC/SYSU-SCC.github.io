@@ -6,6 +6,7 @@ title: Talks
 ## Jun. 2022
 
 - **K. Wu**. 现代处理器优化概论. _08 Jun. 2022(expected)_
+- **[H. Chen](https://www.gztime.cc/)**. 夺旗之战-CTF初赏. _05 Jun. 2022_
 - **K. Wu**. 超算基本原理与方法论. _02 Jun. 2022_
 
 ## May 2022
