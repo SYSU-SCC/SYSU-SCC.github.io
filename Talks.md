@@ -5,9 +5,9 @@ title: Talks
 
 ## Jun. 2022
 
-- **K. Wu**. 现代处理器优化概论. _08 Jun. 2022(expected)_
-- **[H. Chen](https://blog.gztime.cc/)**. 夺旗之战——CTF初赏. _05 Jun. 2022_
-- **K. Wu**. 超算基本原理与方法论. _02 Jun. 2022_
+- **K. Wu**. [现代处理器优化概论](https://sysu-scc.feishu.cn/file/boxcnQcRimOByBFREJEc5lgtgXc). _08 Jun. 2022_
+- **[H. Chen](https://blog.gztime.cc/)**. 夺旗之战：CTF 初赏. _05 Jun. 2022_
+- **K. Wu**. [超算基本原理与方法论](https://sysu-scc.feishu.cn/file/boxcnjtWoYlkvSF4pF4grCwudFr). _02 Jun. 2022_
 
 ## May 2022
 
@@ -19,7 +19,7 @@ title: Talks
 
 ## Jan. 2022
 
-- **W. Shao**. 简谈spack——编译，安装，运行的困境和出路. _31 Jan. 2022_
+- **W. Shao**. 简谈 spack——编译，安装，运行的困境和出路. _31 Jan. 2022_
 
 ## Dec. 2021
 
@@ -74,19 +74,19 @@ title: Talks
 
 ## Dec. 2018
 
-- **J. Liang**. relion介绍. _20 Dec. 2018_.
+- **J. Liang**. relion 介绍. _20 Dec. 2018_.
 
 ## Nov. 2018
 
 - **R. Ouyang**. 人工智障入门. _22 Nov. 2018_.
-- **J. Liang**. CUDA编程入门 1 & 2. _01 Nov. 2018_.
+- **J. Liang**. CUDA 编程入门 1 & 2. _01 Nov. 2018_.
 
 ## Oct. 2018
 
-- **L. Zhang, G. Feng, J. Liang, T. Liang**. CPC参赛分享. _25 Oct. 2018_.
+- **L. Zhang, G. Feng, J. Liang, T. Liang**. CPC 参赛分享. _25 Oct. 2018_.
 - **J. Zhang**. fortran + C 混编. _11 Oct. 2018_.
 
 ## Sep. 2018
 
 - **R. Cai, G. Feng**. 系统组内培、天河 2 号使用. _29 Sep. 2018_.
-- **J. Liang**. 优化题1 优化参考方案. _24 Sep. 2018_.
+- **J. Liang**. 优化题 1 优化参考方案. _24 Sep. 2018_.
