@@ -32,7 +32,7 @@ Numbers inside parentheses stand for academic years in which members were recrui
 ## Grade 18
 
 - [Jing Lan](https://lan-jing.github.io/) (20')
-- [Xuanteng Huang](https://www.melon-hwang.tech) (20')
+- [Xuanteng Huang](https://huangxt.com) (20')
 - Zhihan Jiang (20')
 - Wenkai Shao (20')
 - Jingrun Zhang (20')
