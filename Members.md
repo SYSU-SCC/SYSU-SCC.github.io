@@ -25,7 +25,7 @@ Numbers inside parentheses stand for academic years in which members were recrui
 ## Grade 19
 
 - Siran Liu (21')
-- Han Huang (21')
+- [Han Huang](https://hhthebest.github.io/) (21')
 - Tianxiang Lyu (20')
 - Tianhao Lin (20')
 
