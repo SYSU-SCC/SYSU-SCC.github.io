@@ -110,20 +110,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 rel="stylesheet"
                 href="https://cdn.jsdelivr.net/npm/pygments-rouge-css@0.1.0/perldoc.min.css"
               />
-            - | # 字体
-              <link
-                rel="stylesheet"
-                href="https://cdn.jsdelivr.net/npm/@fontsource/monaspace-xenon@5.1.0/index.min.css"
-              />
-              <link
-                rel='stylesheet'
-                href='https://chinese-fonts-cdn.deno.dev/packages/jyhpws/dist/%E6%9E%81%E5%BD%B1%E6%AF%81%E7%89%87%E6%96%87%E5%AE%8B/result.css'
-              />
-              <style>
-                body, .markdown-body {
-                  font-family: "Monaspace Xenon", "极影毁片文宋 Medium", var(--fontStack-monospace, monospace);
-                }
-              </style>
             - | # 填满页面
               <style>
                 #wrap-content {
@@ -214,32 +200,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                         m.textContent = x.textContent;
                         x.parentNode.insertAdjacentElement("beforebegin", m);
                       }'
-                ></script>
-            - smart_include:
-                enable: false
-              append: |
-                <link
-                  rel="stylesheet"
-                  href="https://cdn.jsdelivr.net/npm/sakana-widget@2.7.0/lib/sakana.min.css"
-                />
-                <script>
-                function initSakanaWidget() {
-                  const mizuno = SakanaWidget.getCharacter('takina');
-                  mizuno.image = `https://mizuno-ai.wu-kan.cn/pixiv/75805052_p0.webp`;
-                  SakanaWidget.registerCharacter('mizuno', mizuno);
-                  let sakana = document.createElement("div");
-                  sakana.style.bottom = "0";
-                  sakana.style.right = "0";
-                  sakana.style.zIndex = "1";
-                  sakana.style.position = "fixed";
-                  document.body.insertAdjacentElement("beforeend", sakana);
-                  new SakanaWidget({ character: 'mizuno' }).mount(sakana);
-                }
-                </script>
-                <script
-                  async
-                  onload="initSakanaWidget();"
-                  src="https://cdn.jsdelivr.net/npm/sakana-widget@2.7.0/lib/sakana.min.js"
                 ></script>
         post:
           date: # 显示博文时间
