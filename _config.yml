@@ -55,8 +55,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               enable: true
               prepend: |
                 <style>
-                  #toc {
-                    padding-left: 2em;
+                  #wrap-toc {
+                    padding-left: 3em;
                   }
                 </style>
             prepend:
@@ -67,20 +67,19 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     type="text"
                     placeholder="Search"
                     aria-label="Filter"
-                    id="sidebar-search-input"
+                    id="wrap-search-input"
                   />
-                  <ol class="px-5" id="sidebar-search-results-container"></ol>
+                  <ol class="px-5" id="wrap-search-result"></ol>
                   <script
-                    src="https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0"
+                    src="https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"
                     async="async"
                     onload='
                   SimpleJekyllSearch({
                     json: "/assets/simple-jekyll-search/search.json",
-                    searchInput: document.getElementById("sidebar-search-input"),
-                    resultsContainer: document.getElementById("sidebar-search-results-container"),
+                    searchInput: document.getElementById("wrap-search-input"),
+                    resultsContainer: document.getElementById("wrap-search-result"),
                     searchResultTemplate: `<li><a href="{url}">{title}</a></li>`,
-                    limit: 9,
-                    fuzzy: true
+                    limit: 9
                   })'
                   ></script>
                 </form>
@@ -239,15 +238,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               href="https://cdn.jsdelivr.net/combine/npm/reveal.js@5.1.0/dist/reveal.min.css,npm/reveal.js@5.1.0/dist/theme/serif.min.css"
             />
             <style>
-              .reveal {
-                --r-main-font: var(--fontStack-monospace);
-                --r-heading-font: var(--fontStack-monospace);
-                --r-code-font: var(--fontStack-monospace);
-                --r-main-color: var(--fgColor-default, var(--color-fg-default));
-                --r-heading-color: var(--fgColor-default, var(--color-fg-default));
-                --r-link-color: var(--fgColor-accent, var(--color-accent-fg));
-                --r-background-color: var(--bgColor-default, var(--color-canvas-default));
-              }
               .reveal .slides {
                 text-align: left;
               }
