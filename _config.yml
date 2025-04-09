@@ -43,8 +43,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 href: /Members/
               - title: 'Talks'
                 href: /Talks/
-              - title: 'Concat'
-                href: /Concat/
+              - title: 'Contact'
+                href: /Contact/
               - title: 'GitHub'
                 href: https://github.com/SYSU-SCC
             footer: |
