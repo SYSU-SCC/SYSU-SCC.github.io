@@ -7,15 +7,15 @@ We are Student Cluster Competition Team at Sun Yat-sen University, and conduct r
 
 ## 2023
 
-![SYSU-SCC-2023](./assets/image/2023-12.jpg)
+![SYSU-SCC-2023](./assets/image/2023-12.webp)
 
 ## 2021
 
-![SYSU-SCC-2021](https://i.loli.net/2021/11/14/BqSHTNo5VhRbvmr.jpg)
+![SYSU-SCC-2021](./assets/image/2021-06.webp)
 
 ## 2020
 
-![SYSU-SCC-2020](./assets/image/2022/06/02/0.jpeg)
+![SYSU-SCC-2020](./assets/image/2022-06.webp)
 
 ## Calendar
 
