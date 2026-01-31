@@ -5,7 +5,7 @@ layout: comments
 
 |           Year            | Rank |                        Notes                        |
 | :-----------------------: | :--: | :-------------------------------------------------: |
-|[ASC25][asc25]                    |  6   | Super Team Award, [News][asc25-news] | 
+|[ASC25][asc25]                    |  6   | Group Competition Award, [News][asc25-news] | 
 |[ISC25(Virtual)][isc25]    |  1   |[News][isc25-news]|
 |[MCC25][mcc25]             |  1   |[News][mcc25-news] |
 |[MCC25][mcc25]             |  3   |[News][mcc25-news] |
