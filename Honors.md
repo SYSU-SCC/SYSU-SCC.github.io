@@ -7,6 +7,8 @@ layout: comments
 | :-----------------------: | :--: | :-------------------------------------------------: |
 |[ASC25][asc25]                    |  6   | Super Team Award, [News][asc25-news] | 
 |[ISC25(Virtual)][isc25]    |  1   |[News][isc25-news]|
+|[MCC25][mcc25]             |  1   |[News][mcc25-news] |
+|[MCC25][mcc25]             |  3   |[News][mcc25-news] |
 |[ISC24(Virtual)][isc24]    |  1   |[News][isc24-news]|
 |[ASC24][asc24]             |  2   |[News][asc24-news]|
 |[PRA23][pra23]             |  1   |[News][pra23-news]|
@@ -35,6 +37,8 @@ layout: comments
 |           ASC13           |  4   |  Application Innovation Award, [News][asc13-news]   |
 |           ASC12           |  4   |                 [News][asc12-news]                  |
 
+[mcc25-news]: https://mp.weixin.qq.com/s/_N5TST9aRpuzRDGlnbO9kw
+[mcc25]: http://www.paraedu.org.cn/enterstep/index?id=14&groupTag=MCC
 [asc25]: http://www.asc-events.net/StudentChallenge/index.html
 [asc25-news]: https://mp.weixin.qq.com/s/7RwfpnVCpmAKXI0CtqVA9A
 [isc25-news]: https://www.sysu.edu.cn/news/info/2161/1389591.htm
