@@ -13,11 +13,27 @@ layout: comments
 
 Numbers inside parentheses stand for academic years in which members were recruited.
 
+## Grade 24
+- Zixuan Zheng (24')
+- Haoxiang Yang (24')
+- Hengrui Zhang (24')
+- Min Chen (24')
+
+## Grade 23
+- Haoquan Chen (23')
+- Hongjin Zhong (23')
+- Zicheng Huang (23')
+- Zhixin Zhu (23')
+- Shucheng Zou (23')
+- Yuhai Long (24')
+- Xinjian Cui (24')
+
 ## Grade 22
 - [Ye Huang](http://www.yeyeah.life/) (22')
 - Yuewen Huang (22')
 - Yu Wang (22')
 - Ruihan Zheng (22')
+- Hao Liu (23')
 
 ## Grade 21
 - [Yibin Luo](https://www.itcarrot.tech/) (22')
