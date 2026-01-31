@@ -5,9 +5,11 @@ layout: comments
 
 |           Year            | Rank |                        Notes                        |
 | :-----------------------: | :--: | :-------------------------------------------------: |
-|[ISC24(Virtual)][isc24]|1|[News][isc24-news]|
-|[ASC24][asc24]|2|[News][asc24-news]|
-|[PRA23][pra23]|1|[News][pra23-news]|
+|[ASC25][asc25]                    |  6   | Super Team Award, [News][asc25-news] | 
+|[ISC25(Virtual)][isc25]    |  1   |[News][isc25-news]|
+|[ISC24(Virtual)][isc24]    |  1   |[News][isc24-news]|
+|[ASC24][asc24]             |  2   |[News][asc24-news]|
+|[PRA23][pra23]             |  1   |[News][pra23-news]|
 |[ASC22-23][asc22-23]|8|Application Innovation Award, [News][asc22-23-news]|
 |      [SC22(Virtual)][sc22]         |  1   |                 [News][sc22-news]                   |
 |      [ISC22][isc22]       |  2   |                 [News][isc22-news]                  |
@@ -33,6 +35,10 @@ layout: comments
 |           ASC13           |  4   |  Application Innovation Award, [News][asc13-news]   |
 |           ASC12           |  4   |                 [News][asc12-news]                  |
 
+[asc25]: http://www.asc-events.net/StudentChallenge/index.html
+[asc25-news]: https://mp.weixin.qq.com/s/7RwfpnVCpmAKXI0CtqVA9A
+[isc25-news]: https://www.sysu.edu.cn/news/info/2161/1389591.htm
+[isc25]:https://isc-hpc.com/program/student-cluster-competition/
 [isc24-news]: https://www.sysu.edu.cn/news/info/2161/1202251.htm
 [isc24]: https://www.isc-hpc.com/student-cluster-competition-2024.html
 [asc24-news]: https://mp.weixin.qq.com/s?__biz=MzAwNzczODEzMw==&mid=2653119198&idx=1&sn=3d5efd8e6c283f058c4828f867681461
