@@ -7,6 +7,7 @@ layout: comments
 
 - [Zhiguang Chen](http://cse.sysu.edu.cn/content/5357)
 - [Dan Huang](http://cse.sysu.edu.cn/content/5266)
+- [Guangnan Feng](http://blog.sysu.tech/about/)
 - Yunfei Du (Former)
 - [Weicai Ye](https://www.researchgate.net/scientific-contributions/Weicai-Ye-2033993793) (Former)
 - Yongdong Zhang (Former)
@@ -95,7 +96,7 @@ Numbers inside parentheses stand for academic years in which members were recrui
 ## Grade 15
 
 - [Jiabin Xie](https://xiejb6.github.io/) (18')
-- Guangnan Feng (18')
+- [Guangnan Feng](http://blog.sysu.tech/about/) (18')
 - Liyue Zhang (18')
 - Jiexin Liang (18')
 - Rongyu Cai (18')
