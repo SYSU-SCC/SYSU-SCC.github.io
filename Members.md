@@ -20,7 +20,7 @@ Numbers inside parentheses stand for academic years in which members were recrui
 - Ruihan Zheng (22')
 
 ## Grade 21
-- Yibin Luo (22')
+- [Yibin Luo](https://www.itcarrot.tech/) (22')
 - Yujie Huang (22')
 - Lanshu Huang (22')
 - Xianjie Chen (22')
